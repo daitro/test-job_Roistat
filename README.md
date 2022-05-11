@@ -21,7 +21,7 @@ npm run build --report
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 
-Чтобы я добавила:
+Что бы я добавила:
 1. Сортировку данных в таблице 
 2. Поддержку SCSS в конфиг вебпака и переписать стили на SCSS
 3. Валидацию в форму добавления пользователя
